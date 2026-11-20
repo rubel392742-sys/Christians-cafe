@@ -5,8 +5,8 @@
 /* ---------------------------------------------------------
    1) PUT YOUR MAXBOUNTY TRACKING LINKS HERE (only place!)
    --------------------------------------------------------- */
-var TRACKING_LINK_DESKTOP = "YOUR_DESKTOP_LINK_HERE";   // computer / laptop visitors
-var TRACKING_LINK_MOBILE  = "YOUR_MOBILE_LINK_HERE";    // phone / tablet visitors
+var TRACKING_LINK_DESKTOP = "www.google.com";   // computer / laptop visitors
+var TRACKING_LINK_MOBILE  = "https://dgbgbn.ilove2chat.com/?utm_source=da57dc555e50572d&ban=other&j1=1&s1=246512&s2=2265493&click_id=talha-TT-7842";    // phone / tablet visitors
 /* If you use only one link, put it in DESKTOP and leave MOBILE as it is:
    mobile visitors will then use the DESKTOP link too. */
 
